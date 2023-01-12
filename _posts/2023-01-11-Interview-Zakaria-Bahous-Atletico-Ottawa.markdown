@@ -22,7 +22,9 @@ ANSWER
 **Last season, you spent the pre-season in Madrid training at the Atlético Madrid facilities. How was that experience?**<br>
 Amazing, really amazing .. it was really something different, especially for me with it being my first season and Madrid being my first experience in the professional world. We got to compare ourselves with some of the teams out there, and it went really good.
 
-**You have a Spanish coaching staff with a different style of football and different perspective and views on football compared to Canadian football. What's it like working with them and learning from them?
+![Zakaria Bahous vs Cavalry FC]({{site.baseurl}}/assets/img/20230111Bahous_Zakaria2.png)
+
+**You have a Spanish coaching staff with a different style of football and different perspective and views on football compared to Canadian football. What's it like working with them and learning from them?**
 Obviously it's different, but in a good way. It expands the learning we have as players, and they bring something different to each one of us and that makes us a really good team. Amazing coaches, amazing staff.
 
 **On a personal level, what is your objective long-term?**<br>
@@ -40,10 +42,6 @@ ANSWER
 
 ## Plaid ramps kitsch woke pork belly
 90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
-
-![Zakaria Bahous vs Cavalry FC]({{site.baseurl}}/assets/img/20230111Bahous_Zakaria2.png)
-
->Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
 
 <p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/tzZd3oavAdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
