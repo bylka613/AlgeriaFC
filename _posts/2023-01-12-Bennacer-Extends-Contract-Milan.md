@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bennacer extends contract with AC Milan until 2027
-date: 2023-01-11 00:00:00 +0300
+date: 2023-01-12 00:00:00 +0300
 description: Algeria midfielder Ismael Bennacer extends contract with AC Milan until 2027 # Add post description (optional)
 img: FmS6wFbX0AAnBzo.jpg # Add image post (optional)
 tags: [Bennacer, Milan] # add tag
