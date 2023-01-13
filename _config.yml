@@ -17,7 +17,7 @@ social-linkedin: false
 social-email: false
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: false # add your discus identifier
 
 # Tracker
 analytics: G-2D32GVQHBY 
