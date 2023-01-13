@@ -8,9 +8,9 @@ tags: [CHAN, Algeria, Libya, CHAN2022] # add tag
 ---
 **Algeria started its 2022 African Nations Championship campaign with a 1-0 win over Libya at the newly inaugurated Nelson Mandela Stadium in Algiers in the opening match of the tournament.**
 
-After a scoreless first half, Algeria broke the deadlock in the 57th minute after Aymen Mahious obtained and converted a penalty. The USM Algiers striker pounced on an errant back pass and was brought down by Libya's goalkeeper Muad Ellafi. The 25-year old then cooly slotted home from the spot to give the Desert Foxes the lead.
+After a scoreless first half, Algeria broke the deadlock in the 57th minute after Aymen Mahious obtained and converted a penalty. The USM Algiers striker pounced on an errant back pass and was brought down in the box by Libya's goalkeeper Muad Ellafi. The 25-year old stepped up and cooly slotted home from the spot to give the Desert Foxes the lead.
 
-Libya had a number of chances to equalize in the final 30 minutes, including a shot from Ali Salama which came off the post but Algeria held on for the win.
+Libya had a number of chances to equalize in the final 30 minutes, including a shot from Ali Salama which came off the post but Algeria held on for the all-important win.
 
 Midfielder Houssem Mrezigue, who put in a industrious shift in the center of the park, was chosen as the Player of the Match. 
 
