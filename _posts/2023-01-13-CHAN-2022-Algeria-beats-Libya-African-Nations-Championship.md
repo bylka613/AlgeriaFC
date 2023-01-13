@@ -16,6 +16,10 @@ Midfielder Houssem Mrezigue, who put in a industrious shift in the center of the
 
 Algeria will face Ethiopia next on Tuesday, while Libya takes on Mozambique.
 
+Algeria 1-0 Libya<br>
+Goals: Aymen Mahious (57')<br>
+ALG: Alexis Guendouz, Mokhtar Belkhiter, Zinedine Belaid, Youcef Laouafi, Zakaria Draoui, Houssem Mrezigue, Ahmed Kendouci, Abderrahmane Meziane, Aimen Lahmeri (Chouaib Debbih 71', Fethallah Tahar 90'), Aymen Mahious (Karim Aribi 61')
+
 <p style="text-align:center"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">🏅 Houssem Mrezigue is the Man of the Match in Algeria&#39;s 1-0 win over Libya in the opening match of the 2022 African Nations Championship <a href="https://twitter.com/hashtag/TeamDZ?src=hash&amp;ref_src=twsrc%5Etfw">#TeamDZ</a> <a href="https://twitter.com/hashtag/CHAN2022?src=hash&amp;ref_src=twsrc%5Etfw">#CHAN2022</a> <a href="https://t.co/R7EI1Vk2H0">pic.twitter.com/R7EI1Vk2H0</a></p>&mdash; Algeria FC 🇩🇿⚽️ (@Algeria_FC) <a href="https://twitter.com/Algeria_FC/status/1614012549770498058?ref_src=twsrc%5Etfw">January 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
 <p style="text-align:right">AlgeriaFC.com</p>
