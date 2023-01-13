@@ -3,7 +3,7 @@ layout: post
 title: 2022 Africa Nations Championship (CHAN) kicks off today in Algeria 
 date: 2023-01-13 00:00:00 +0300
 description: The 2022 Africa Nations Championship (CHAN) kicks off today in Algeria # Add post description (optional)
-img: Flz8rYIXEBkRgbS.jpg.jpg # Add image post (optional)
+img: Flz8rYIXEBkRgbS.jpg # Add image post (optional)
 tags: [CHAN, Algeria, Libya, CHAN2022] # add tag
 ---
 **The 2022 Africa Nations Championship (CHAN) kicks off today in Algeria with hosts Algeria taking on Libya at the newly completed Nelson Mandela Stadium in Algiers.**
