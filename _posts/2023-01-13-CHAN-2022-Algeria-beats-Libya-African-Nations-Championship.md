@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 African Nations Championship (CHAN): Algeria 1-0 Libya
+title: "2022 African Nations Championship (CHAN): Algeria 1-0 Libya"
 date: 2023-01-13 10:00:00 +0500
 description: 2022 African Nations Championship - Algeria 1-0 Libya (optional)
 img: 2023_01_13_Algeria_Libya_Lahmeri.png # Add image post (optional)
