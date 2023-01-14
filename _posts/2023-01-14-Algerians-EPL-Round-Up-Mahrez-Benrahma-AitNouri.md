@@ -11,7 +11,7 @@ Three Algerians were involved in today's fixtures in the English Premier League,
 **Manchester United 2-1 Manchester City**<br>
 Riyad Mahrez started and played the full 90 minutes for Manchester City in their derby against crosstown rivals Manchester United at Old Trafford. Unfortunately, the Cityzens were on the wrong side of the 2-1 scoreline, conceding two late goals to fall further behind league leaders Arsenal.
 
-**Wolverhampton Wanderers 1-0 West Ham United**
+**Wolverhampton Wanderers 1-0 West Ham United**<br>
 Both Rayan Ait Nouri and Said Benrahma started on their bench for their respective sides and came on as second half substitutes. Ait Nouri was introduced in the 64th minute for the hosts, while Benrahma came on in the 60th minute.
 
 <p style="text-align:right">AlgeriaFC.com</p>
