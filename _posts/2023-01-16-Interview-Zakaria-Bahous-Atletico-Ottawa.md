@@ -7,7 +7,7 @@ img: 20230111Bahous_Zakaria.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Interview, Atletico Ottawa, Zakaria Bahous, Canadian Premier League, CanPL]
 ---
-Zakaria Bahous is an Algerian-Canadian football player who currently plays for Atlético Ottawa in the Canadian Premier League. In his first season, Bahous played a key role in helping Atlético Ottawa, which is owned by Spanish club Atlético Madrid, win the regular season championship and reach the final of the play-offs. 
+*Zakaria Bahous is an Algerian-Canadian football player who currently plays for Atlético Ottawa in the Canadian Premier League. In his first season, Bahous played a key role in helping Atlético Ottawa, which is owned by Spanish club Atlético Madrid, win the regular season championship and reach the final of the play-offs.* 
 
 We caught up with the Montreal native to talk about his first season at the professional level and his goals for the future.
 
