@@ -41,7 +41,7 @@ It's important to understand how you play, and to keep playing your way of playi
 My parents are from Sidi Bel Abbes but I have not been back in a while because of football.
 
 **Do you watch the national team play and if so do you have a favorite player?**<br>
-Yes, of course .. actually, I don't have a favorite player. Most player would say Riyad Mahrez, he's amazing but it comes with a lot of work from the players around him. So I don't have one in particular, I just like the entire team we have.
+Yes, of course .. actually, I don't have a favorite player. Most people would probably say Riyad Mahrez, he's definitely amazing but it comes with a lot of work from the players around him. So I don't have one in particular, I just like the entire team that we have.
 
 **The Canadian Premier League (CPL) was only launched a few years ago and now provides a path to professional football for young players in Canada, which did not exist before that. What does the CPL mean for you?**<br>
 The CPL provided a stepping stone to professional football. If you go back five years, most players in Quebec in the PLSQ were thinking the next step would be to move to MLS but nobody was able to make that jump from the semi-pro level to MLS. Now with the CPL, we've recently seen a few players go from the CPL to MLS, so it creates a chance and opportunity for players. That's the difference we have compared to Europe, where there's so many divisions and there's a clear path to climb up the ladder. So it's an opportunity for players to showcase themselves, gain the experience and then make that step to the next level.
