@@ -2,7 +2,7 @@
 layout: post
 title: "2022 African Nations Championship (CHAN): Algeria vs Ethiopia"
 date: 2023-01-17 09:00:00 +0500
-description: 2022 African Nations Championship (CHAN): Algeria vs Ethiopia
+description: "2022 African Nations Championship (CHAN): Algeria vs Ethiopia"
 img: 325537878_681967623623816_5686831033725607003_n.jpg # Add image post (optional)
 tags: [CHAN, Algeria, Ethiopia, CHAN2022] # add tag
 ---
