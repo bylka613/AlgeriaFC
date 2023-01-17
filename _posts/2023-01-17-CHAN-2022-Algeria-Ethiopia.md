@@ -8,7 +8,7 @@ tags: [CHAN, Algeria, Ethiopia, CHAN2022] # add tag
 ---
 **Algeria hosts Ethiopia at the Nelson Mandela Stadium in Algiers tonight and will look to book its place in the quarter-finals of the 2022 African Nations Championship with a win.**
 
-The Desert Foxes will hope to build on their opening match victory over Libya against an Ethiopia side which was held to a goalless draw by Mozambique in their first match.
+The Desert Foxes will hope to build on their opening match victory over Libya against an Ethiopia side which was held to a goalless draw by Mozambique in their first match. A win for Algeria guarantees it a place in the quarter-finals. 
 
 Coach Madjid Bougherra will likely have to make some alterations to his starting eleven, with goalscorer Aymen Mahious and playmaker Chouaib Debbih both picking up injuries in the first group stage match. Their participation in today's game remains uncertain.
 
