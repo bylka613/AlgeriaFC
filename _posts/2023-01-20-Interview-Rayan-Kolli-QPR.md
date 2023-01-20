@@ -19,7 +19,7 @@ I went to one of the community sessions that QPR set up with one of my friends j
 **You recently signed your first pro contract with QPR after almost 10 years at the club. How did that feel?**<br>
 Signing a professional contract is an amazing feeling, especially because it is my first one. I have sacrificed and dedicated a lot of time and effort to earn this so I’m very happy to make my family proud.
 
-![Rayan Kolli signed his professional contract with QPR until 2025](20230120_Rayan_Kolli_QPR1.png)
+![Rayan Kolli signed his professional contract with QPR until 2025]({{site.baseurl}}/assets/img/20230120_Rayan_Kolli_QPR1.png)
 
 **What are you short and long term objectives?**<br>
 Now that I’ve signed a professional contract, which was initially one of my short term goals for this season, it's now to make my debut with the first team Inshallah. A long term goal would be to become a regular starter within the QPR first team and represent Algeria in major tournaments.
