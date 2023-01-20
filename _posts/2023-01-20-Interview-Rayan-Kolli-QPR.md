@@ -6,7 +6,7 @@ description: "Interview with QPR FC winger Rayan Kolli "
 img: 20230120_Rayan_Kolli_QPR.png # Add image post (optional)
 tags: [QPR, Rayan Kolli, Algeria, Queens Park Rangers] # add tag
 ---
-*Rayan Kolli is a young Algerian-English footballer who recently signed his first professional with English Championship club Queens Park Rangers FC. Earlier this season, the 17-year old London native also trained with the QPR first team after some scintillating performances with the youth team.
+*Rayan Kolli is a young Algerian-English footballer who recently signed his first professional with English Championship club Queens Park Rangers FC. Earlier this season, the 17-year old London native also trained with the QPR first team after some scintillating performances with the youth team.*
 
 We caught up with Rayan Kolli for a short interview.
 
