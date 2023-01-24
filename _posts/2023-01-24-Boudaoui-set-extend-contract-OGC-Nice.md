@@ -6,6 +6,8 @@ description: Hicham Boudaoui is set to extend his contract with French Ligue 1 c
 img: 20230124_boudaoui_hicham.jpg # Add image post (optional)
 tags: [Hicham Boudaoui, Nice, Algeria, Contract] # add tag
 ---
+<meta name='twitter:card' content='summary' />
+
 **Algeria international midfielder Hicham Boudaoui is all set to extend his contract with French Ligue 1 club OGC Nice.**
 
 The Paradou academy product has been in talks with the club to sign a contract extension and has reached an agreement to extend until 2026.
