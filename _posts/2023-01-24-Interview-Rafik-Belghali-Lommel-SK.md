@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview: Rafik Belghali (Lommel SK)"
-date: 2023-01-24 10:00:00 +0500
+date: 2023-01-24 14:00:00 +0500
 description: "Interview with Lommel SK defender Rafik Belghali"
 img: 20230123_Belghali_Rafik_cover.png # Add image post (optional)
 tags: [Lommel SK, Rafik Belghali, Algeria, Interview] # add tag
@@ -25,7 +25,7 @@ Before getting called up, I had had a bit of contact with the Algerian Football 
 ![Rafik Belghali in action for Lommel]({{site.baseurl}}/assets/img/20230123_Belghali_Rafik_1.png)
 
 **This year you were having a fantastic season before unfortuntely getting injured, what has been the key to your success?**
-The key to my success has been to do all the extras in the offseason, to train on things that you can do better and improve on. That's why I've been doing in the summer with the FDP Academy. Last year, my statistics were not that good and I knew that I could improve on that if I worked on certain things during the summer. Since the beginning of the season we directly saw that improvement. 
+The key to my success has been to do all the extras in the offseason, to train on things that you can do better and improve on. That's why I have been doing in the summer with the FDP Academy. Last year, my statistics were not that good and I knew that I could improve on that if I worked on certain things during the summer and since the beginning of the season we directly saw that improvement. Also, God helps you a lot when you don't forget him. God always helps with things you want to achieve, that's also been a big key to my success.
 
 **You recently got injured and underwent surgery, how's your recovery coming along?**
 It's been two weeks since I had my surgery. I've already been through a serious injury when I was younger so I already know what I have to do to recover. Everything is going well, I'm just working hard to come back stronger and as quick as possible.
@@ -39,6 +39,6 @@ First of all, I want to play in the first division in Belgium or Netherlands. Af
 A player that I like is Achraf Hakimi, he's a really offensive right-back. The way he plays with PSG is really attractive as a full-back. 
 
 **Your older brother Mohamed is a former footballer who came up through the youth ranks of KRC Genk. What kind of advice does he give you and how important has he been in your progression as a player?**
-He's really important me, 
+He's really important for me, in my growth as a player and in my career, like when I had my big ACL injury. He always helps me to stay grounded, keep my two feet on the ground and to stay focused and keep working hard, not just to "fly" like we say in Belgium. He always advises me, so he's a really important for me. He also comes to all my games so when I do something wrong he tells me what I can improve on, so he's like a mentor for me to do things right.
 
 <p style="text-align:right">Interview: Walid Ziani<br>AlgeriaFC.com</p>
