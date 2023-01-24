@@ -3,7 +3,7 @@ layout: post
 title: Hicham Boudaoui set to extend contract with OGC Nice
 date: 2023-01-24 08:00:00 +0500
 description: Hicham Boudaoui is set to extend his contract with French Ligue 1 club OGC Nice # Add post description (optional)
-img: boudaoui_hicham_20230124.png # Add image post (optional)
+img: boudaoui_hicham_20230124a.png # Add image post (optional)
 tags: [Hicham Boudaoui, Nice, Algeria, Contract] # add tag
 ---
 **Algeria international midfielder Hicham Boudaoui is all set to extend his contract with French Ligue 1 club OGC Nice.**
