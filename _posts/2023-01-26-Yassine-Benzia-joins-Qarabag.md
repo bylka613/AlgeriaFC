@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Yassine Benzia joins Azerbaijan champions Qarabag FK
-date: 2023-01-24 08:00:00 +0500
+date: 2023-01-26 12:00:00 +0500
 description: Yassine Benzia joins Azerbaijan champions Qarabag FK # Add post description (optional)
-img: FnbID2CWIBgIWS_.jpg.jpg # Add image post (optional)
+img: FnbID2CWIBgIWS_.jpg # Add image post (optional)
 tags: [Yassine Benzia, Qarabag, Azerbaijan, Algeria] # add tag
 ---
 **Former Algeria international Yassine Benzia has joined 9 time Azerbaijan champions Qarabag FK, signing a contract until 2025.**
