@@ -6,7 +6,7 @@ description: Yassine Benzia joins Azerbaijan champions Qarabag FK # Add post des
 img: FnbID2CWIBgIWS_.jpg.jpg # Add image post (optional)
 tags: [Yassine Benzia, Qarabag, Azerbaijan, Algeria] # add tag
 ---
-**Former Algeria international Yassine Benzia has joined 9 time Azerbaijan champions Qarabag FK.**
+**Former Algeria international Yassine Benzia has joined 9 time Azerbaijan champions Qarabag FK, signing a contract until 2025.**
 
 The 28-year old midfielder did not feature for French Ligue 2 club Dijon this season and was allowed to leave with his contract set to expire this summer.
 
