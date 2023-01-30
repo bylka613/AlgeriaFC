@@ -6,7 +6,7 @@ description: Interview with Algeria U23 international Camiel Neghli (De Graafsch
 img: FdG8t3_XEAE9nkg.jpg # Add image post (optional)
 tags: [Camiel Neghli, Interview, De Graafschap, Algeria] # add tag
 ---
-**After Karim Bridji and more recently Ramiz Zerrouki, another Dutch-born Algerian is starting to make his mark on Algerian football. Born in Ede, Netherlands, Camiel Neghli is a winger for Eerste Divisie club De Graafschap and has also been called up to the Algeria U23 national team. 
+**After Karim Bridji and more recently Ramiz Zerrouki, another Dutch-born Algerian is starting to make his mark on Algerian football. Born in Ede, Netherlands, Camiel Neghli is a winger for Eerste Divisie club De Graafschap and has also been called up to the Algeria U23 national team.**
 
 We caught up with Neghli for an interview to talk about his career and his aspirations as a player. 
 
