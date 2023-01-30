@@ -8,7 +8,7 @@ tags: [Camiel Neghli, Interview, De Graafschap, Algeria] # add tag
 ---
 **After Karim Bridji and more recently Ramiz Zerrouki, another Dutch-born Algerian is starting to make his mark on Algerian football. Born in Ede, Netherlands, Camiel Neghli is a winger for Eerste Divisie club De Graafschap and has also been called up to the Algeria U23 national team.**
 
-We caught up with Neghli for an interview to talk about his career and his aspirations as a player. 
+*We caught up with Neghli for an interview to talk about his career and his aspirations as a player.*
 
 **For starters, can you introduce yourself to our readers.**<br>
 Camiel Neghli, I am 21 years old and play for De Graafschap in the second division in the Netherlands. I've been playing here since the youth ranks and since the past 2-3 seasons with the first team. 
