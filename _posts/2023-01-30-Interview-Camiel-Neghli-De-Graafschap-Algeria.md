@@ -39,4 +39,4 @@ My family come from the capital Algiers. When I was young I used to come every y
 **What are you short term and long term objectives in your career?**<br>
 Short term, my goal is to be important for My club and improve my game, score goals, reate assists and earn a transfer. For long term, I want to play in the Bundesliga, I think this competition suits me well and the atmosphere really appeals to me. For my international carreer, I want to help the national team. I hope I can be in the first team for Algeria and contribute my part to the success. It would be a big honor for me, and a dream come true.
 
-<p style="text-align:right">AlgeriaFC.com</p>
+<p style="text-align:right">Interview: Walid Ziani<br>AlgeriaFC.com</p>
