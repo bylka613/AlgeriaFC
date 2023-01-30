@@ -6,8 +6,6 @@ description: Interview with Algeria U23 international Camiel Neghli (De Graafsch
 img: FdG8t3_XEAE9nkg.jpg # Add image post (optional)
 tags: [Camiel Neghli, Interview, De Graafschap, Algeria] # add tag
 ---
-**Former Algeria international Yassine Benzia has joined 9 time Azerbaijan champions Qarabag FK, signing a contract until 2025.**
-
 **For starters, can you introduce yourself to our readers.** Camiel Neghli, I am 21 years old and play for De Graafschap in the second division in the Netherlands. I've been playing here since the youth ranks and since the past 2-3 seasons with the first team. 
 
 **Tell us a bit about your career so far.** I started playing in local teams and after two years I joined FC Twente. I spent just one season and moved to De Graafschap, and I've been playing with them ever since.
