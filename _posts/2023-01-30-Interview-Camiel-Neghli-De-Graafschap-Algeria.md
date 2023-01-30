@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interview with Algeria U23 international Camiel Neghli (De Graafschap FC)
+title: "Interview with Algeria U23 international Camiel Neghli (De Graafschap FC)"
 date: 2023-01-30 10:00:00 +0500
 description: Interview with Algeria U23 international Camiel Neghli (De Graafschap FC) # Add post description (optional)
 img: FdG8t3_XEAE9nkg.jpg # Add image post (optional)
