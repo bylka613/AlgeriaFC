@@ -3,7 +3,7 @@ layout: post
 title: "Interview Algeria FC - Yassine Ben Hamed (Antwerp): « Algérie .. un choix du coeur »"
 date: 2023-02-08 09:00:00 +0500
 description: Interview avec l'international U20 Yassine Ben Hamed (Antwerp) # Add post description (optional)
-img: 20230131_BenHamed_Yassine_cover.jpg # Add image post (optional)
+img: 20230131_BenHamed_Yassine_cover1.jpg # Add image post (optional)
 tags: [Yassine Ben Hamed, Interview, Antwerp, Algeria, Algerie] # add tag
 ---
 **Peux-tu présenter au public sportif algérien?**<br>
