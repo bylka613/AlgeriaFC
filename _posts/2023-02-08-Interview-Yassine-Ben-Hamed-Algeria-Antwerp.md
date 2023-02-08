@@ -38,4 +38,4 @@ Ce n'est que le début et la suite sera encore meilleure.
 
 <p><center><blockquote class="twitter-tweet"><p lang="fr" dir="ltr">🎙️ Interview Algeria FC 🇩🇿⚽️<br><br>💬 Yassine Ben Hamed (Antwerp 🇧🇪): « L’Algérie .. un choix du cœur ! » <a href="https://twitter.com/hashtag/TeamDZ?src=hash&amp;ref_src=twsrc%5Etfw">#TeamDZ</a> <br><br>L&#39;intégralité de l&#39;interview avec l’international U20 Yassine Ben Hamed sera bientôt disponible sur notre site 🔜 <a href="https://twitter.com/hashtag/TeamDZ?src=hash&amp;ref_src=twsrc%5Etfw">#TeamDZ</a> <a href="https://t.co/do7AA8ieYQ">pic.twitter.com/do7AA8ieYQ</a></p>&mdash; Algeria FC 🇩🇿⚽️ (@Algeria_FC) <a href="https://twitter.com/Algeria_FC/status/1622670532033277953?ref_src=twsrc%5Etfw">February 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center></p>
 
-<p style="text-align:right">Interview: Walid Ziani<br>AlgeriaFC.com</p>
+<p style="text-align:right"><b>Interview:</b> Walid Ziani<br>AlgeriaFC.com</p>
