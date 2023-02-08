@@ -13,7 +13,7 @@ J'ai commencé à jouer au football à l'âge de 5 ans à Villeurbanne avec l'AS
 **On sait que tu es arrivé à l’âge de 14ans au LOSC, tu as gravi tous les échelons jusqu’à s’entraîner avec le groupe pro (sous la houlette de Christophe Galtier), on t’a même proposé un contrat Pro, pourquoi ce choix de quitter le LOSC pour la Jupiler Pro League?**<br>
 Je sais que Lille est l'un des plus grands clubs français, mais j'ai eu l'opportunité de signer avec le Royal Antwerp. J'en ai discuté avec mon entourage et nous avons pris une décision.
 
-<p><center>![Yassine Ben Hamed]({{site.baseurl}}/assets/img/FCuRLFvXoAYg2zh.jpg)</center></p>
+![Yassine Ben Hamed]({{site.baseurl}}/assets/img/FCuRLFvXoAYg2zh.jpg)
 
 **Comment définis-tu ce championnat belge? Ça se passe comment avec ton club?**<br>
 C'est un très bon championnat, certes différent de la France, mais qui reste quand-même un championnat de haut niveau avec de très bons joueurs! Actuellement, je suis en U23 et je donne le meilleur de moi-même tous les jours pour pouvoir intégrer l'équipe première le plus rapidement possible, si Dieu le veut. Je me sens très bien dans mon club, je travaille tous les jours avec de bonnes personnes et des bons entraîneurs qui me conseillent et m'aident à progresser. Nous verrons ce que l'avenir nous réserve.
