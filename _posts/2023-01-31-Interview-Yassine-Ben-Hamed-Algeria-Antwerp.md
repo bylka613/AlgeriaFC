@@ -1,15 +1,11 @@
 ---
 layout: post
-title: "Interview with Algeria U20 international Yassine Ben Hamed (Antwerp FC)"
+title: "Interview avec Yassine Ben Hamed (Antwerp): « Algérie .. le choix du coeur »"
 date: 2023-01-31 10:00:00 +0500
-description: Interview with Algeria U20 international Yassine Ben Hamed (Antwerp FC) # Add post description (optional)
+description: Interview avec l'international U20 Yassine Ben Hamed (Antwerp) # Add post description (optional)
 img: 20230131_BenHamed_Yassine_cover.jpg # Add image post (optional)
-tags: [Yassine Ben Hamed, Interview, Antwerp, Algeria] # add tag
+tags: [Yassine Ben Hamed, Interview, Antwerp, Algeria, Algerie] # add tag
 ---
-**INTRO**
-
-*We caught up with Ben Hamed for an interview to talk about his career and his aspirations as a player.*
-
 **Peux-tu présenter au public sportif algérien?**<br>
 Je m'appelle Yassine Ben Hamed. Je suis Franco-Algérien et j'ai 19 ans. Je suis joueur professionnel au Royal Antwerp, j'occupe le poste de latéral gauche. 
 J'ai commencé à jouer au football à l'âge de 5 ans à Villeurbanne avec l'ASVEL, puis je suis passé à l'Olympique Lyonnais en 2017. En 2019, j'ai décidé de rejoindre le LOSC où j'ai passé 4 années merveilleuses.  J'ai ensuite signé mon premier contrat professionnel dans mon club actuel qui m'a donné la chance de faire mes débuts en tant que professionnel à l'âge de 18 ans!
