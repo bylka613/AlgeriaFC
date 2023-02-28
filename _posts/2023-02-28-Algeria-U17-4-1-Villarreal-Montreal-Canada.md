@@ -12,7 +12,7 @@ Paradou AC striker Aymen Chegra scored a hattrick for the young Desert Foxes, wi
 
 The lone goal for the Villarreal Montreal Academy was scored by Lyes Yahmi, a Canadian-Algerian player who was part of the CF Montreal youth ranks.
 
-Algeria starting XI: 
+**Algeria starting XI:**
 
 Mastias Hammache (CF Montreal)<br>
 Nadir Yakoubi (AC FAF)<br>
