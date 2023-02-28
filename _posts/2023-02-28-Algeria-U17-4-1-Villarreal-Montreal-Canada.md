@@ -14,17 +14,17 @@ The lone goal for the Villarreal Montreal Academy was scored by Lyes Yahmi, a Ca
 
 Algeria starting XI: 
 
-Mastias Hammache (CF Montreal)</br>
-Nadir Yakoubi (AC FAF)</br>
-Abdelhak Beniddir (Paradou🇿)</br>
-Ziad Nemer (AC FAF)</br>
-Younes Badani (Paradou) ⚽️</br>
-Anes Abed (AC FAF)</br>
-Alaaedine Limane (AC FAF)</br>
-Youcef Belkaid (Paradou)</br>
-Issam Yazid (CR Belouizdad)</br>
-Aymen Chegra (Paradou) ⚽️⚽️⚽️</br>
-Fethi Kessassi (AC FAF)</br>
+Mastias Hammache (CF Montreal)<br>
+Nadir Yakoubi (AC FAF)<br>
+Abdelhak Beniddir (Paradou🇿)<br>
+Ziad Nemer (AC FAF)<br>
+Younes Badani (Paradou) ⚽️<br>
+Anes Abed (AC FAF)<br>
+Alaaedine Limane (AC FAF)<br>
+Youcef Belkaid (Paradou)<br>
+Issam Yazid (CR Belouizdad)<br>
+Fethi Kessassi (AC FAF)<br>
+Aymen Chegra (Paradou) ⚽️⚽️⚽️<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JcV4vwMsHMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
