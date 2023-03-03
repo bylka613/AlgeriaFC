@@ -3,7 +3,7 @@ layout: post
 title: "Interview - Zyed Beltaief (AC Ajaccio & Algérie U17): « Mon objectif c’est de gagner la Coupe d’Afrique »"
 date: 2023-03-02 11:00:00 +0500
 description: "Interview avec l'international algérien U17 Zyed Beltaief (AC Ajaccio)" # Add post description (optional)
-img: FqJWmWKXgAIzvK8.jpg # Add image post (optional)
+img: 2023030_beltaief_zyed.jpg # Add image post (optional)
 tags: [Algeria U17, Zyed Beltaief, Interview, AC Ajaccio] # add tag
 ---
 **Pour commencer, peux tu présenter au public?**<br>
@@ -32,4 +32,4 @@ Ayez confiance et retenez bien mon nom beltaief zyed.
 
 <blockquote class="twitter-tweet"><p lang="ht" dir="ltr">🇩🇿 Algeria U17 4-2 NA Hussein Dey U21 🔴🟡<br>⚽️ Younes Badani (Paradou 🇩🇿)<br>⚽️ Mohamed Ziad (Zamalek 🇪🇬)<br>⚽️ Alaaedine Limane (AC FAF 🇩🇿)<br>⚽️ Zyed Beltaief (AC Ajaccio 🇫🇷) <a href="https://t.co/ODY3jnApcf">pic.twitter.com/ODY3jnApcf</a></p>&mdash; Algeria FC 🇩🇿⚽️ (@Algeria_FC) <a href="https://twitter.com/Algeria_FC/status/1627411002735173632?ref_src=twsrc%5Etfw">February 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<p style="text-align:right">AlgeriaFC.com</p>
+<p style="text-align:right">Interview: Walid Ziani<br>AlgeriaFC.com</p>
