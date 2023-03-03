@@ -3,7 +3,7 @@ layout: post
 title: "Abdelkahar Kadri chosen as Kortrijk's Player of the Month"
 date: 2023-03-03 15:00:00 +0500
 description: "Algeria international midfielder Abdelkahar Kadri was chosen as Kortrijk's Player of the Month" # Add post description (optional)
-img: 20220303_Kadri.png # Add image post (optional)
+img: 230303_Kadri.png # Add image post (optional)
 tags: [Abdelkahar Kadri, Kortrijk] # add tag
 ---
 **Algeria international midfielder Abdelkahar Kadri was chosen as Kortrijk's Player of the Month for February after playing a key role during the past month.**
