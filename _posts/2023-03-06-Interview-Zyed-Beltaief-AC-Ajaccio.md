@@ -13,7 +13,7 @@ Zyed Beltaief est un jeune joueur algérien de la région parisienne evoluant à
 **Pour commencer, peux tu présenter au public?**<br>
 Je m'appelle Zyed Beltaief, j'ai 16 ans et je suis né à Paris le 27 mars 2006. Je joue au poste d'ailier droit et gauche à l'AC Ajaccio.
 
-**Comment es-tu arrivé à Ajaccio? Peux tu nous retracer ton parcours?**<br>
+**Comment as-tu atteris l'AC Ajaccio? Peux tu nous retracer ton parcours?**<br>
 J'ai été repéré par l'AC Ajaccio grâce à mon ancien club Montfermeil, un club situé à Paris. Ils ont cru en moi et m'ont envoyé passer un essai. J'ai réussi à leur montrer ce dont j'étais capable lors d'un match avec beaucoup de joueurs et trois mois plus tard, j'ai reçu une réponse positive. Ils m'ont envoyé un billet d'avion pour un autre essai d'une semaine à Ajaccio et ça s'est bien passé. J'ai finalement signé un contrat de deux ans avec le club.
 
 **Quelles sont tes qualités et défauts en tant que joueur?**<br>
@@ -22,7 +22,7 @@ J'aime beaucoup dribbler, mais parfois je peux en faire un peu trop et ça ne se
 **Tu avais le choix entre l’Algérie et la Tunisie mais tu as choisi l’Algérie. Pourquoi ce choix?**<br>
 J'ai pensé à mon avenir et j'ai choisi l'Algérie car je pense que c'est un meilleur choix en termes de public et de visibilité. J'ai beaucoup réfléchi à ce sujet et j'ai finalement décidé de représenter les couleurs de l'Algérie.
 
-**Tu est originaire de quelle région en Algérie? Tu retournes souvent?**<br>
+**Tu est originaire de quelle région en Algérie? Tu y retournes souvent?**<br>
 Je suis originaire de Nedroma en Algérie. J'y suis allé deux fois quand j'étais plus jeune.
 
 **Tu viens juste de rentrer chez toi après avoir passé une semaine avec la sélection U17 en vue de la Coupe d’Afrique U17 qui se déroulera en Algérie en avril. Peux-tu nous parler du stage et nous dire comment cela s’est déroulé?**<br>
@@ -30,10 +30,10 @@ Le stage avec la sélection U17 s'est très bien passé, l'ambiance était bonne
 
 ![Rencontre entre l'EN U17 et les anciens joueurs comme Djamel Menad, Lounes Gaouaoui et Fodil Megharia]({{site.baseurl}}/assets/img/FpTHNaIaUAAzZpY.jpg)
 
-**Quels sont tes objectifs à moyen et long terme ? En club et en sélection.**<br>
+**Et maintenant, quels sont tes projets pour l'avenir, à la fois en club et en équipe nationale?**<br>
 Je veux devenir un joueur légendaire reconnu dans le monde entier et remporter la Coupe d'Afrique des Nations avec les U17. Mon objectif immédiat est de signer un contrat professionnel avec l'AC Ajaccio ou un autre club qui m'offre cette opportunité.
 
-**Un dernier mot pour le public algérien?**<br>
+**As-tu un message à transmettre au public algérien?**<br>
 Je voudrais dire au public algérien de me suivre et de croire en moi. Retenez bien mon nom, Beltaief Zyed, car je veux représenter l'Algérie et faire honneur à mon pays.
 <blockquote class="twitter-tweet"><p lang="ht" dir="ltr">🇩🇿 Algeria U17 4-2 NA Hussein Dey U21 🔴🟡<br>⚽️ Younes Badani (Paradou 🇩🇿)<br>⚽️ Mohamed Ziad (Zamalek 🇪🇬)<br>⚽️ Alaaedine Limane (AC FAF 🇩🇿)<br>⚽️ Zyed Beltaief (AC Ajaccio 🇫🇷) <a href="https://t.co/ODY3jnApcf">pic.twitter.com/ODY3jnApcf</a></p>&mdash; Algeria FC 🇩🇿⚽️ (@Algeria_FC) <a href="https://twitter.com/Algeria_FC/status/1627411002735173632?ref_src=twsrc%5Etfw">February 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
