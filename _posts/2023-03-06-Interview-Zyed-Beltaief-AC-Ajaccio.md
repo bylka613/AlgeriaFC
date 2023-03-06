@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview - Zyed Beltaief (AC Ajaccio & Algérie U17): « Mon objectif c’est de gagner la Coupe d’Afrique »"
-date: 2023-03-02 11:00:00 +0500
+date: 2023-03-06 12:00:00 +0500
 description: "Interview avec l'international algérien U17 Zyed Beltaief (AC Ajaccio)" # Add post description (optional)
 img: 2023030_beltaief_zyed.jpg # Add image post (optional)
 tags: [Algeria U17, Zyed Beltaief, Interview, AC Ajaccio] # add tag
