@@ -8,7 +8,7 @@ tags: [Algeria U17, Zyed Beltaief, Interview, AC Ajaccio] # add tag
 ---
 Zyed Beltaief est un jeune joueur algérien de la région parisienne evoluant à l'AC Ajaccio. Il fait également partie de l'équipe nationale U17 qui prépare actuellement pour la Coupe d'Afrique des Nations U17.
 
-Nous avons joint Beltaeif pour une interview sur son choix d'opter pour l'Algérie et ses objectifs pour l'avenir.
+*Nous avons joint Beltaeif pour une interview sur son choix d'opter pour l'Algérie et ses objectifs pour l'avenir.*
 
 **Pour commencer, peux tu présenter au public?**<br>
 Je m'appelle Zyed Beltaief, j'ai 16 ans et je suis né à Paris le 27 mars 2006. Je joue au poste d'ailier droit et gauche à l'AC Ajaccio.
