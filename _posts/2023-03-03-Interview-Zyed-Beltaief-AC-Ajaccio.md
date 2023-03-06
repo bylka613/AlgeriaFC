@@ -6,6 +6,10 @@ description: "Interview avec l'international algérien U17 Zyed Beltaief (AC Aja
 img: 2023030_beltaief_zyed.jpg # Add image post (optional)
 tags: [Algeria U17, Zyed Beltaief, Interview, AC Ajaccio] # add tag
 ---
+Zyed Beltaief est un jeune joueur algérien de la région parisienne evoluant à l'AC Ajaccio. Il fait également partie de l'équipe nationale U17 qui prépare actuellement pour la Coupe d'Afrique des Nations U17.
+
+Nous avons joint Beltaeif pour une interview sur son choix d'opter pour l'Algérie et ses objectifs pour l'avenir.
+
 **Pour commencer, peux tu présenter au public?**<br>
 Je m'appelle Zyed Beltaief, j'ai 16 ans et je suis né à Paris le 27 mars 2006. Je joue au poste d'ailier droit et gauche à l'AC Ajaccio.
 
@@ -22,7 +26,7 @@ J'ai pensé à mon avenir et j'ai choisi l'Algérie car je pense que c'est un me
 Je suis originaire de Nedroma en Algérie. J'y suis allé deux fois quand j'étais plus jeune.
 
 **Tu viens juste de rentrer chez toi après avoir passé une semaine avec la sélection U17 en vue de la Coupe d’Afrique U17 qui se déroulera en Algérie en avril. Peux-tu nous parler du stage et nous dire comment cela s’est déroulé?**<br>
-Ce stage c’est très bien passé bonne ambiance et très bon groupe malgré cette défaite sur le premier match qu’on a abordé j’étais très frustré car j’avais joué que 20 min parce que le matin je devais me rendre à l’hôpital pour faire un test d’effort. Ce test m’avez fatigué et c’est pour cela que le coach a décidé de me faire jouer 20 minutes. Le match se passe très mal. Malgré mon entrée. Je touche peu de ballons mais je garde la mentale et je me dis que le prochain match je serai prêt et je prouverai avant le dernier match du stage. On a fait beaucoup de rencontres de grands joueurs algériens ce qui nous a fait oublier cette défaite et nous a redonné le sourire. On arrive le dimanche au stade déterminé et le match se passe très bien avec une victoire du score de 4-2 là où j’inscris, mon premier but en sélection.
+Le stage avec la sélection U17 s'est très bien passé, l'ambiance était bonne et j'ai apprécié être avec ce groupe. Mais j'étais déçu car je n'ai joué que 20 minutes, car j'ai dû passer un test d'effort le matin, qui m'a fatigué. Cela a fait que le coach a décidé de me faire jouer moins. Le match s'est mal passé, mais je n'ai pas perdu ma motivation et j'ai décidé de me concentrer sur le prochain match pour prouver ma valeur.  Au cours du stage nous avons eu la chance de rencontrer des anciens joueurs de l'équipe nationale des années 80. Ces joueurs sont des légendes, ça a été un moment mémorable et qui nous a tous fait oublier la défaite du premier match. Nous avons fini le stage sur une belle note en remportant le dernier match 4-2, où j'ai marqué mon premier but en sélection. C'était une expérience incroyable pour moi, surtout que je suis encore jeune et que je suis ravi de pouvoir représenter l'Algérie.
 
 ![Rencontre entre l'EN U17 et les anciens joueurs comme Djamel Menad, Lounes Gaouaoui et Fodil Megharia]({{site.baseurl}}/assets/img/FpTHNaIaUAAzZpY.jpg)
 
