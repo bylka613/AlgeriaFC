@@ -16,6 +16,10 @@ tags: [Mitchell Weiser, Werder Bremen, Algeria] # add tag
 
 It remains to be seen whether Weiser is part of the plans of Algeria national team coach Djamel Belmadi, especially with the lack of options at his right-back position.
 
+"I understand that it is exciting or unexpected for you but my family and I always knew that, and that’s why it is not really exciting," added Weiser. "The contact has been established through the management but I also don’t know if they even want to call me up but I want to play for Algeria and I hope I will be selected." 
+
+"I haven’t spoken to any official and I didn’t want that this topic become so big but my I knew that my entire life. I understand that for other people it’s unusual because they never saw me as Algerian but I knew my entire life where I originally come from and my family history and that’s part of me. What the status is now with the Algerian federation I don’t know but I think they are also interested. I still have no passport but I have all documents. The embassy is in Frankfurt, I couldn’t go there yet but they said if I get a call up that they will help me. If they don’t call me up, it is what it is. It’s still very speculative. I would be very happy if they invite me. Let’s see what happens."
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">💬 Mitchell Weiser (Werder Bremen) on playing for Algeria: “I have always had the option in my mind. It&#39;s an important goal of mine to play in a big tournament and with Algeria I think I have a better chance of achieving that.” <a href="https://t.co/ocxVy5s0MN">pic.twitter.com/ocxVy5s0MN</a></p>&mdash; Algeria FC 🇩🇿⚽️ (@Algeria_FC) <a href="https://twitter.com/Algeria_FC/status/1633880137811755016?ref_src=twsrc%5Etfw">March 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p style="text-align:right">AlgeriaFC.com</p>
