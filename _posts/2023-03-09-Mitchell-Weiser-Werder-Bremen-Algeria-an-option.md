@@ -3,7 +3,7 @@ layout: post
 title: "Mitchell Weiser (Werder Bremen): "Algeria is an option""
 date: 2023-03-09 15:00:00 +0500
 description: "Werder Bremen right-back says Algeria is an option for him" # Add post description (optional)
-img: Fqy1UxXWABEq8UR.jpg # Add image post (optional)
+img: 20230309_weiser.jpg # Add image post (optional)
 tags: [Mitchell Weiser, Werder Bremen, Algeria] # add tag
 ---
 **Werder Bremen right-back Mitchell Weiser has declared that playing for Algeria is a potential option for him. The 28-year old German-born Weiser has previously represented Germany at the youth level but is eligible for Algeria via his mother.**
