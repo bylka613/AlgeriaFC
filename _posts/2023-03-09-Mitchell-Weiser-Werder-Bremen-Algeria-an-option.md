@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mitchell Weiser (Werder Bremen): "Algeria is an option""
+title: "Mitchell Weiser (Werder Bremen): « Algeria is an option »
 date: 2023-03-09 15:00:00 +0500
 description: "Werder Bremen right-back says Algeria is an option for him" # Add post description (optional)
 img: 20230309_weiser.jpg # Add image post (optional)
