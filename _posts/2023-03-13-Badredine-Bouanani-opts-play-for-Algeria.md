@@ -8,7 +8,7 @@ tags: [Badredine Bouanani, OGC Nice, Algeria] # add tag
 ---
 **18-year old Nice winger Badredine Bouanani has officially opted to play for Algeria, according to L'Equipe. The French-born Bouanani only made his professional debut for Nice in January but has been impressive on the right-wing with his combination of speed and trickery.**
 
-Bouanani is a former France U18 international and won the 2022 Mediterranean Games last summer in Algeria, even scoring a penalty against the Desert Foxes. Bouanani is the latest French-born talent to pledge his international feature to Algeria, with the likes of Rayan Ait Nouri (Wolves), Fares Chaibi (Toulouse) and Houssem Aouar (Lyon) all committing to Algeria.
+Bouanani is a former France U18 international and won the 2022 Mediterranean Games last summer in Algeria, even scoring a penalty against the Desert Foxes. Bouanani is the latest French-born talent to pledge his international feature to Algeria, with the likes of Rayan Ait Nouri (Wolves), Fares Chaibi (Toulouse), Houssem Aouar (Lyon) and Sami Tlemcani (Chelsea) all committing to Algeria.
 
 Bouanani has made 9 appearances this season, providing 3 assists.
 
