@@ -3,7 +3,7 @@ layout: post
 title: "Fares Chaibi scores to send Toulouse to the French Cup final"
 date: 2023-04-07 09:30:00 +0500
 description: "Fares Chaibi scores to send Toulouse to the French Cup final" # Add post description (optional)
-img: FtEEBydXgAAlBu7.jpg # Add image post (optional)
+img: Pano_RésuméVidéo.jpg # Add image post (optional)
 tags: [Fares Chaïbi, Toulouse, French Cup] # add tag
 ---
 **Fares Chaïbi came off the bench to score the winning goal for Toulouse in the 2-1 win over Annecy in the French Cup semi-final. The goal sends Toulouse to its first French Cup final since 1957!**
