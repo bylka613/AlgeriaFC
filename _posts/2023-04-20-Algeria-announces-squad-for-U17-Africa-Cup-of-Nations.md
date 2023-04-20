@@ -12,6 +12,6 @@ The young Desert Foxes will face Somalia, Senegal and Congo, in Group A action a
 
 Remane's squad has remained largely unchanged in the lead-up to the Africa Cup, with the U17 coach relying mainly on players from the Algerian FA Academy and Paradou AC, as well as a number of foreign-based players from France, Spain and Canada.
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Farès Chaïbi qui envoie Toulouse en FINALE DE COUPE DE FRANCE ! 🔥🔥🔥<a href="https://t.co/Af7XNy1Oym">pic.twitter.com/Af7XNy1Oym</a></p>&mdash; La Vague Verte ⭐️🇩🇿⭐️ (@la_vagueverte) <a href="https://twitter.com/la_vagueverte/status/1644082192732102665?ref_src=twsrc%5Etfw">April 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>](https://twitter.com/Algeria_FC/status/1648471778317205504)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🗓️ U17 International Friendly <br><br>🇩🇿 Algeria 1-1 Burkina Faso 🇧🇫 <br>⚽️ Djibril Bahlouli <a href="https://t.co/3ZmTleuojB">pic.twitter.com/3ZmTleuojB</a></p>&mdash; Algeria FC 🇩🇿⚽️ (@Algeria_FC) <a href="https://twitter.com/Algeria_FC/status/1648471778317205504?ref_src=twsrc%5Etfw">April 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p style="text-align:right">AlgeriaFC.com</p>
