@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ramiz Zerrouki score a 93rd minute equalizer for FC Twente"
+title: "Ramiz Zerrouki scores a 93rd minute equalizer for FC Twente"
 date: 2023-06-08 16:00:00 +0500
 description: "Ramiz Zerrouki score a 93rd minute equalizer for FC Twente in the Eredivisie Conference League playoffs" # Add post description (optional)
 img: FyH5UTvWcAAD2E1.jpg # Add image post (optional)
