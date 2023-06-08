@@ -6,7 +6,7 @@ description: "17-year old Pardaou striker Ben Ahmed Kohili scores on Algerian le
 img: 351357064_628317739359571_1197405523114680484_n.jpg # Add image post (optional)
 tags: [Ben Ahmed Kohili, Paradou AC, Algeria Ligue 1] # add tag
 ---
-**17-year old Paradou striker Ben Ahmed Kohili became the youngest player to score in the Algerian league in almost 8 years when he found the net against Mouloudia Oran yesterday.**
+**17-year old Paradou striker Ben Ahmed Kohili became the youngest player to score in the Algerian league in almost 8 years when he found the net against Mouloudia Oran on Tuesday.**
 
 Making his league debut for Paradou, Kohili first obtained a penalty, converted by Reda Hamidi, before scoring his own penalty in the second half.
 
