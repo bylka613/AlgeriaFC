@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interview - Maxime Sainte (Varbergs BoIS): « INSERT QUOTE »"
+title: "Interview - Maxime Sainte (Varbergs BoIS): « My objective is to go as far as possible and to play outside of Sweden. »"
 date: 2023-04-25 11:00:00 +0500
 description: "Interview with Algerian-Swedish right-back Maxime Sainte (Varbergs BoIS)" # Add post description (optional)
 img: maxime2.jpg # Add image post (optional)
@@ -10,7 +10,7 @@ Maxime Sainte is a 22-year old Swedish-Algerian footballer playing with Varbegs 
 
 We caught up with Maxime for a short interview. 
 
-**For starters, can you introduce yourself to our readers.**<br>
+**For starters, can you introduce yourself to our readers.**
 I started playing football when I was 4 years old, I started playing with AIK (in Stockholm). I also played in Hammarby.
 
 **What are your strenghts as a footballer?**
@@ -20,7 +20,7 @@ My strengths are my speed and my technique.
 I was born in Sweden but my mother is from Algeria. I went to Algeria once when I was young but I don't remember any of it. I have talked to my mom about going back as soon as possible, it would be fantastic.
 
 **What are your objectives for this season ? And your objectives for the future ?**
-"My objective is to go as far as possible and to play outside of Sweden."
+My objective is to go as far as possible and to play outside of Sweden.
 
 ![Maxime Sainte]({{site.baseurl}}/assets/img/maxime1.jpg)
 
