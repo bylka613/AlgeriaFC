@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview - Maxime Sainte (Varbergs BoIS): « My objective is to go as far as possible and to play outside of Sweden. »"
-date: 2023-04-25 11:00:00 +0500
+date: 2024-04-25 11:00:00 +0500
 description: "Interview with Algerian-Swedish right-back Maxime Sainte (Varbergs BoIS)" # Add post description (optional)
 img: maxime2.jpg # Add image post (optional)
 tags: [Maxime Sainte, Varbergs, Algeria, Sweden] # add tag
