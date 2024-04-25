@@ -10,16 +10,16 @@ Maxime Sainte is a 22-year old Swedish-Algerian footballer playing with Varbegs 
 
 We caught up with Maxime for a short interview. 
 
-**For starters, can you introduce yourself to our readers.**
+**For starters, can you introduce yourself to our readers.**<br>
 I started playing football when I was 4 years old, I started playing with AIK (in Stockholm). I also played in Hammarby.
 
-**What are your strenghts as a footballer?**
+**What are your strenghts as a footballer?**<br>
 My strengths are my speed and my technique.
 
-**You are born in Sweden but you are of Algerian descent. What is your link to Algeria? Have you ever been?**
+**You are born in Sweden but you are of Algerian descent. What is your link to Algeria? Have you ever been?**<br>
 I was born in Sweden but my mother is from Algeria. I went to Algeria once when I was young but I don't remember any of it. I have talked to my mom about going back as soon as possible, it would be fantastic.
 
-**What are your objectives for this season ? And your objectives for the future ?**
+**What are your objectives for this season ? And your objectives for the future ?**<br>
 My objective is to go as far as possible and to play outside of Sweden.
 
 ![Maxime Sainte]({{site.baseurl}}/assets/img/maxime1.jpg)
