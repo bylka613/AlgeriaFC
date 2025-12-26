@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Baghdad Bouedjah crowned champion of Qatar with Al Sadd"
+title: "Baghdad Bounedjah crowned champion of Qatar with Al Sadd"
 date: 2024-04-25 14:00:00 +0500
 description: "Baghdad Bounedjah and Al Sadd are crowned Qatar Stars League champions" # Add post description (optional)
 img: 53677382719_e439dde66b_5k.jpg # Add image post (optional)
