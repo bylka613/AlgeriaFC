@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Karim Boutera (Degerfors/Suède): « L’Algérie, c’est ma famille, mes origines, ma culture »"
+title: "Karim Boutera (Degerfors IF/Suède): « L’Algérie, c’est ma famille, mes origines, ma culture »"
 date: 2026-08-19 08:00:00 +0500
 description: "Interview avec Karim Boutera, attaquant algérien du Degerfors (Suède)" # Add post description (optional)
 img: 20260819_Karim_Boutera.png # Add image post (optional)
 tags: [Karim Boutera, Suède, Sweden, Sverige, Degerfors, Allsvenskan] # add tag
 ---
-**KARIM BOUTERA**
+**Karim Boutera est un jeune attaquant franco-algérien qui a récemment fait ses débuts professionnels avec Degerfors IF en championnat suédois. Nous avons joint Boutera pour une interview pour en savoir plus sur lui.**
 
 **Bonjour Karim, peux-tu te presenter brièvement aux lécteurs? Parle-nous de ton parcours et de ta formation.**<br>
 Je m’appelle Karim Boutera, j’ai 21 ans et je suis footballeur professionnel. Je suis né en France et j’ai commencé le football très jeune. J’ai notamment évolué au FC Lyon, à l’AS Saint-Priest, à Nîmes Olympique et à Angers SCO, avant de rejoindre Amiens SC puis Boulogne-sur-Mer. Mon parcours m’a permis de découvrir différents environnements et de beaucoup progresser, aussi bien sportivement qu’humainement. Aujourd’hui, je vis une nouvelle étape importante de ma carrière avec Degerfors en Suède, et je suis très heureux de pouvoir découvrir le football professionnel à l’étranger.
