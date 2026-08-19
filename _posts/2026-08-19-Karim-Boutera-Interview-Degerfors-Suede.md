@@ -4,7 +4,7 @@ title: "Karim Boutera (Degerfors/Suède): « L’Algérie, c’est ma famille, m
 date: 2026-08-19 08:00:00 +0500
 description: "Interview avec Karim Boutera, attaquant algérien du Degerfors (Suède)" # Add post description (optional)
 img: 20260819_Karim_Boutera.png # Add image post (optional)
-tags: [Karim Boutera, Suède, Sweden, Sverigue, Degerfors, Allsvenskan] # add tag
+tags: [Karim Boutera, Suède, Sweden, Sverige, Degerfors, Allsvenskan] # add tag
 ---
 **KARIM BOUTERA**
 
